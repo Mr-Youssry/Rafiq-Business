@@ -57,12 +57,12 @@
 
 ### 7 Markets Under Consideration
 1. Egypt
-2. UAE
+2. USA
 3. Saudi Arabia
-4. Jordan
-5. Morocco
-6. Kenya
-7. [TBD]
+4. Qatar
+5. Turkey
+6. United Arab Emirates
+7. UK
 
 ### Selection Timeline
 - **Week 1-2:** Comparative research across all 7 markets
@@ -118,12 +118,12 @@ WORKSTREAM D: MVP Development (Beyond 5-Month Plan)
 
 ### The 7 Potential Markets
 1. Egypt
-2. UAE
+2. USA
 3. Saudi Arabia
-4. Jordan
-5. Morocco
-6. Kenya
-7. [Market 7 - TBD]
+4. Qatar
+5. Turkey
+6. United Arab Emirates
+7. UK
 
 ### Resource Allocation
 | Person | Focus Area | Days |
