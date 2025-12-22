@@ -51,6 +51,25 @@
 
 ---
 
+## Market Selection First Approach
+
+> **Critical Decision:** Before deep problem validation, we research 7 potential markets and select ONE primary market for Year 1 focus. All subsequent validation activities (Objectives 2.1, 2.4, 2.3, 2.7, 3.1) will focus on this selected market only.
+
+### 7 Markets Under Consideration
+1. Egypt
+2. UAE
+3. Saudi Arabia
+4. Jordan
+5. Morocco
+6. Kenya
+7. [TBD]
+
+### Selection Timeline
+- **Week 1-2:** Comparative research across all 7 markets
+- **End of Week 2:** Primary market selected and documented
+
+---
+
 ## Revised Objective Targets
 
 ### What We WILL Achieve
@@ -91,28 +110,71 @@ WORKSTREAM D: MVP Development (Beyond 5-Month Plan)
 
 ---
 
-# Month 1: Foundation (January)
+# Month 1: Market Selection & Foundation (January)
 
 **Available Resources:** 4 person-days/week = 16 total days
 
-## Focus: Objective 2.1 (Start) + 1.11 (Company Decision Research)
+## Focus: Comparative Market Research (7 Markets) → Select 1 Market → Begin Objective 2.1
+
+### The 7 Potential Markets
+1. Egypt
+2. UAE
+3. Saudi Arabia
+4. Jordan
+5. Morocco
+6. Kenya
+7. [Market 7 - TBD]
 
 ### Resource Allocation
 | Person | Focus Area | Days |
 |--------|------------|------|
-| Co-founder 1 | Customer interviews (2.1) | 4 |
-| Co-founder 2 | Customer interviews (2.1) | 4 |
+| Co-founder 1 | Market research & analysis | 4 |
+| Co-founder 2 | Market research & analysis | 4 |
 | Co-founder 3 | Company establishment research (1.11) | 4 |
 | UX Designer | Begin user research for prototype | 4 |
 
-### Week 1-2: Setup & Initial Research
+---
 
-**Objective 2.1 Activities:**
+## Week 1-2: Comparative Market Research (7 Markets)
+
+### Market Selection Criteria
+| Criteria | Weight | Description |
+|----------|--------|-------------|
+| Market Size | 20% | Number of teachers, schools, districts |
+| Problem Severity | 20% | Urgency of coaching gap |
+| Accessibility | 20% | Ease of reaching decision-makers |
+| Regulatory Environment | 15% | Barriers to entry, data laws |
+| Payment Infrastructure | 15% | Ability to collect payments |
+| Competitive Landscape | 10% | Existing solutions, differentiation opportunity |
+
+### Market Research Activities
 | Action | Owner | Days | Status |
 |--------|-------|------|--------|
-| Define target customer segments | Co-founders 1&2 | 1 | |
+| Define selection criteria & scoring matrix | Co-founders 1&2 | 0.5 | |
+| Research Market 1-3 (size, buyers, barriers) | Co-founder 1 | 2 | |
+| Research Market 4-7 (size, buyers, barriers) | Co-founder 2 | 2 | |
+| Conduct 2-3 exploratory calls per market | Co-founders 1&2 | 2 | |
+| Score all 7 markets against criteria | Co-founders 1&2 | 1 | |
+| **SELECT PRIMARY MARKET FOR YEAR 1** | All founders | 0.5 | |
+
+### Market Research Deliverables
+- [ ] Market comparison matrix (7 markets scored)
+- [ ] 2-3 exploratory call notes per market (14-21 total)
+- [ ] **Primary market selection decision documented**
+- [ ] Rationale for selection (1-page summary)
+
+---
+
+## Week 3-4: Begin Problem Validation in Selected Market
+
+> **All Objective 2.1 activities from this point focus on the SELECTED MARKET only**
+
+**Objective 2.1 Activities (Selected Market):**
+| Action | Owner | Days | Status |
+|--------|-------|------|--------|
+| Define target customer segments (in selected market) | Co-founders 1&2 | 1 | |
 | Create buyer personas (3-4 types) | Co-founders 1&2 | 1 | |
-| Build outreach list (30+ contacts) | Co-founders 1&2 | 1 | |
+| Build outreach list (30+ contacts in selected market) | Co-founders 1&2 | 1 | |
 | Develop interview script | Co-founders 1&2 | 1 | |
 
 **Objective 1.11 Activities:**
@@ -149,12 +211,24 @@ WORKSTREAM D: MVP Development (Beyond 5-Month Plan)
 | Initial user flow mapping | UX Designer | 2 | |
 
 ### Month 1 Deliverables
-- [ ] Customer segment definition document
-- [ ] 3-4 buyer personas
+- [ ] **Market comparison matrix (7 markets scored)**
+- [ ] **Primary market selection decision (documented rationale)**
+- [ ] Customer segment definition document (selected market)
+- [ ] 3-4 buyer personas (selected market)
 - [ ] Interview script
-- [ ] 5-8 completed interviews
+- [ ] 5-8 completed interviews (selected market)
 - [ ] Jurisdiction comparison matrix (draft)
 - [ ] Initial wireframes
+
+### Month 1 Success Metrics
+
+| Metric | Target | Actual |
+|--------|--------|--------|
+| Markets Researched | 7 | |
+| Exploratory Calls (across 7 markets) | 14-21 | |
+| **Primary Market Selected** | 1 | |
+| Interviews in Selected Market | 5-8 | |
+| Buyer Types Interviewed | 3+ | |
 
 ### Month 1 Action Items Completed
 
@@ -709,8 +783,10 @@ WORKSTREAM D: MVP Development (Beyond 5-Month Plan)
 
 ```
 MONTH 1 (January)
-├── Week 2: Customer segments & personas defined
-├── Week 4: 5-8 interviews completed
+├── Week 2: ⭐ PRIMARY MARKET SELECTED (from 7 candidates)
+├── Week 2: Market comparison matrix complete
+├── Week 4: Customer segments & personas defined (selected market)
+├── Week 4: 5-8 interviews completed (selected market)
 └── Week 4: Jurisdiction comparison drafted
 
 MONTH 2 (February)
