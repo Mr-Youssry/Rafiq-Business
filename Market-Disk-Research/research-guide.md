@@ -249,6 +249,119 @@ These questions help validate core assumptions and inform the overall business s
 
 ---
 
+## Section 6: Ecosystem - Network & Support Infrastructure
+
+This section maps the support ecosystem for building and scaling an EdTech startup in this market.
+
+### 6.1 Venture Capital & Investment
+
+#### EdTech-Focused Investors
+- [ ] Are there VCs specifically focused on EdTech in this market?
+- [ ] What are their typical check sizes (pre-seed, seed, Series A)?
+- [ ] Who are the key decision makers/partners to contact?
+- [ ] What is their portfolio and investment thesis?
+
+#### General Tech VCs Active in EdTech
+- [ ] Which general tech VCs have invested in EdTech?
+- [ ] What is their track record with education companies?
+- [ ] How accessible are they for new founders?
+
+#### Investment Activity
+- [ ] How many EdTech funding rounds occurred in the last 12 months?
+- [ ] What is the average round size by stage?
+- [ ] Are there recent M&A or exit events in EdTech?
+
+### 6.2 Accelerators & Incubators
+
+#### Programs Available
+- [ ] What accelerators accept EdTech startups?
+- [ ] What is their investment amount and equity terms?
+- [ ] What is the application process and timeline?
+- [ ] What support services do they provide (mentorship, workspace, network)?
+
+#### Government-Backed Programs
+- [ ] Are there government incubators or programs for EdTech?
+- [ ] What grants or non-dilutive funding is available?
+- [ ] What are the eligibility requirements?
+
+### 6.3 Angel Investor Networks
+
+#### Formal Networks
+- [ ] What angel networks operate in this market?
+- [ ] How many active angels are in each network?
+- [ ] What is their typical investment size?
+- [ ] How do founders get access to these networks?
+
+#### Individual Angels
+- [ ] Who are notable angel investors in EdTech?
+- [ ] What is their background and investment focus?
+- [ ] How can they be contacted?
+
+### 6.4 Key Ecosystem Contacts
+
+#### Industry Leaders
+- [ ] Who are the "EdTech godmothers/godfathers" in this market?
+- [ ] Who are the most influential voices in education technology?
+- [ ] Which founders have successfully built EdTech companies here?
+
+#### B2B Influencers & Gatekeepers
+- [ ] Who are the school network leaders/CEOs?
+- [ ] Who are the education ministry decision makers?
+- [ ] Who are the procurement influencers?
+
+#### Peer Founders
+- [ ] Who are the founders of similar-stage EdTech startups?
+- [ ] What EdTech founders could provide advice or warm intros?
+- [ ] Are there founder communities or groups to join?
+
+### 6.5 School Networks & B2B Partners
+
+#### School Chains
+- [ ] What private school chains operate in this market?
+- [ ] How many schools do they operate?
+- [ ] Who are the decision makers for technology purchases?
+
+#### Education Platforms & Distributors
+- [ ] Are there EdTech distributors or resellers?
+- [ ] What platforms aggregate schools or teachers?
+- [ ] Are there partnership opportunities with existing players?
+
+### 6.6 Events & Conferences
+
+#### Industry Events
+- [ ] What education/EdTech conferences are held in this market?
+- [ ] When and where do they occur?
+- [ ] Who attends (teachers, school leaders, vendors)?
+
+#### Startup Events
+- [ ] What startup demo days or pitch events include EdTech?
+- [ ] What networking events bring together EdTech founders?
+
+### 6.7 Professional Associations & Communities
+
+#### Teacher Associations
+- [ ] What teacher unions or associations exist?
+- [ ] How influential are they in purchasing decisions?
+- [ ] Can they be partners for distribution?
+
+#### EdTech Communities
+- [ ] Are there EdTech founder communities?
+- [ ] What online groups or forums exist for educators?
+- [ ] What LinkedIn/Facebook groups are active?
+
+### 6.8 Media & PR Channels
+
+#### Startup/Tech Media
+- [ ] What publications cover EdTech news in this market?
+- [ ] Who are the key journalists covering education/technology?
+- [ ] What are the best channels for startup announcements?
+
+#### Education Media
+- [ ] What publications do educators read?
+- [ ] What channels reach school decision makers?
+
+---
+
 ## Research Output Template
 
 For each market, create a folder with the following files:
@@ -261,8 +374,9 @@ For each market, create a folder with the following files:
   ├── feasibility.md       # Section 3 findings
   ├── viability.md         # Section 4 findings
   ├── validation.md        # Section 5 findings
+  ├── ecosystem.md         # Section 6 findings (VCs, accelerators, contacts)
   ├── sources.md           # All research sources and references
-  └── contacts.md          # Relevant contacts and networks
+  └── contacts.md          # Relevant contacts and networks (optional, can merge with ecosystem.md)
 ```
 
 ---
@@ -273,22 +387,27 @@ After completing research for all markets, score each on these criteria:
 
 | Criteria | Weight | Egypt | USA | Saudi | Qatar | Turkey | UAE | UK |
 |----------|--------|-------|-----|-------|-------|--------|-----|-----|
-| **Desirability** | | | | | | | | |
-| Market Size (teachers) | 15% | | | | | | | |
-| Coaching Adoption | 10% | | | | | | | |
-| PD Investment Level | 10% | | | | | | | |
-| **Feasibility** | | | | | | | | |
-| Network Strength | 15% | | | | | | | |
-| Regulatory Ease | 10% | | | | | | | |
-| Operational Simplicity | 5% | | | | | | | |
-| Investor Access | 5% | | | | | | | |
-| **Viability** | | | | | | | | |
-| Willingness to Pay | 15% | | | | | | | |
-| Break-even Feasibility | 10% | | | | | | | |
-| Growth Potential | 5% | | | | | | | |
-| **TOTAL SCORE** | 100% | | | | | | | |
+| **Desirability** | 30% | | | | | | | |
+| Market Size (teachers) | 12% | 5 | | | | | | |
+| Coaching Adoption | 9% | 2 | | | | | | |
+| PD Investment Level | 9% | 2 | | | | | | |
+| **Feasibility** | 30% | | | | | | | |
+| Network Strength | 12% | 2 | | | | | | |
+| Regulatory Ease | 8% | 3 | | | | | | |
+| Operational Simplicity | 5% | 4 | | | | | | |
+| Investor Access | 5% | 4 | | | | | | |
+| **Viability** | 25% | | | | | | | |
+| Willingness to Pay | 12% | 2 | | | | | | |
+| Break-even Feasibility | 8% | 4 | | | | | | |
+| Growth Potential | 5% | 4 | | | | | | |
+| **Ecosystem** | 15% | | | | | | | |
+| VC/Accelerator Access | 8% | 4 | | | | | | |
+| B2B Partner Availability | 7% | 4 | | | | | | |
+| **TOTAL SCORE** | 100% | **3.3** | | | | | | |
 
 **Scoring Scale:** 1 (Poor) to 5 (Excellent)
+
+*Note: Egypt scores populated from completed research (December 2024).*
 
 ---
 
@@ -327,4 +446,5 @@ After completing research for all markets, score each on these criteria:
 
 *This guide supports Objective 2.4 (Market Size & Segmentation) and the Market Selection phase of the Rafiq AI 5-month plan.*
 
-*Version 1.0 | Created: December 2024*
+*Version 1.1 | Updated: December 2024*
+*Changes: Added Section 6 (Ecosystem) for VC, accelerator, and contact mapping*
